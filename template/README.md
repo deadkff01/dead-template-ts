@@ -5,9 +5,6 @@ CRA TypeScript template with esbuild
 ## Running the app
 
 ```bash
-# install template
-npx create-react-app some-name --template dead-template-ts
-
 # install
 $ yarn
 
